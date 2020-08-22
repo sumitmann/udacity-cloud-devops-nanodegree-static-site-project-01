@@ -2,7 +2,7 @@
 ### Manually deploy static website into S3 bucket with HTTP hosting and CloudFront
 In this project, I deployed a static website to AWS using S3, CloudFront, and IAM
 
-Cloudfron Url
+CloudFront Url
 ------------
 http://d1ygwawg822cis.cloudfront.net/index.html
 
